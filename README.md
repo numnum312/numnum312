@@ -1,4 +1,4 @@
-# Hi there 👋{ﾆﾋﾙｼﾞｬﾝﾎﾞｽﾏｲﾙ}
+# Hi there 👋
 <img src="https://user-images.githubusercontent.com/79183057/125552471-282a0e96-f0f1-4637-adf8-8000d27c4716.png" align="right"
      width="200" height="200">
 
