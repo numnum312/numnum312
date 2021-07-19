@@ -13,3 +13,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/79183057/125556094-91f6217a-ff90-4a96-bbf2-9d91e1a07d34.gif" alt="game" title="game">
 </div>
+
+## これは私が初めて釣ったヤマメ
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79183057/126122940-e2de4131-d4b8-4762-a9ca-8fc02f074f87.jpg" alt="game" title="game">
+</div>
