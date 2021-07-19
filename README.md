@@ -16,6 +16,7 @@
 
 ## これは私が初めて釣ったヤマメ
 ヤマメがあまりに綺麗すぎて私の手が汚く見えるが許してほしい
+日本の伝統的な釣法ことテンカラ釣りです。フライフィッシングではない
 <div align="center">
 <img src="https://user-images.githubusercontent.com/79183057/126122940-e2de4131-d4b8-4762-a9ca-8fc02f074f87.jpg" alt="game" title="game">
 </div>
