@@ -7,6 +7,8 @@
 - **👾A while ago, I could write c++, but now I can only write Python.👾**
 - **🐸I'm getting old.**
 
+- **🦆I adore the Treasure game "IKARUGA".**
+
 🐶🦧🦮🐺🐈🐄🦙🐐🐑
 
 ***⬇⬇#####################!!!  MY GAME  !!!#########################⬇⬇***
